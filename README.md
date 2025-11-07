@@ -42,7 +42,7 @@
 ## 📈 Most Viewed / Popular Repo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sasikumargidijala&repo=MERN-Chat-App&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sasikumargidijala&repo=MERNChat&theme=tokyonight" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=sasikumargidijala&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
